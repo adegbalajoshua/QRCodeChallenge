@@ -56,9 +56,8 @@ QR Code Challenge
 
 ### Continued development
 
-Found it a little challenging to center divs and center elements inside said div. Would have to brush up on some basic CSS concepts again to referesh my memory
+Found it a little challenging to center divs and center elements inside said div. Would have to brush up on some basic CSS concepts again to refresh my memory
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ## Author
 
