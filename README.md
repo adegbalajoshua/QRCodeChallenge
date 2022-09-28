@@ -8,7 +8,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -63,7 +62,6 @@ Found it a little challenging to center divs and center elements inside said div
 
 ## Author
 
-- Website - [Joshua Adegbala](https://www.your-site.com)
 - Frontend Mentor - [@adegbalajoshua](https://www.frontendmentor.io/profile/adegbalajoshua)
 - Twitter - [@adegbalajoshua](https://www.twitter.com/adegbalajoshua)
 
