@@ -24,19 +24,19 @@ img {
     border-radius: 1rem;
 }
 
-p {
+h1, p {
     padding-left: 23px;
     padding-right: 23px;
     text-align: center;
     font-family: 'Outfit', sans-serif;
 }
 
-#first {
+.first {
     font-weight: 700;
     font-size: 1em;
 }
 
-#second {
+.second {
     font-weight: 400;
     font-size: 0.8em;
     color: hsl(220, 15%, 55%);
